@@ -18,3 +18,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 ### New changes in the same branch documentation
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Third changes in the branch documentation
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
